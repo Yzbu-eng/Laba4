@@ -1,0 +1,2 @@
+hello: krt.cpp
+g++ -o lb krt.cpp
